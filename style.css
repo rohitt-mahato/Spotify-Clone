@@ -417,4 +417,35 @@ body{
 .main-content h2:hover {
     text-decoration: underline;
 }
-  
+  @media (max-width: 768px) {
+    .sidebar {
+        display: none; /* Mobile par sidebar gayab ho jayega */
+    }
+
+    .main {
+        padding: 0; /* Mobile par extra space hatane ke liye */
+    }
+
+    .main-content {
+        margin: 0;
+        border-radius: 0; /* Mobile par full screen dikhega */
+    }
+}
+@media (max-width: 768px) {
+    .music-player {
+        height: 65px;
+        padding: 0 5px;
+    }
+
+    .album {
+        width: 70%; /* Mobile par gaane ka naam dikhne dein */
+    }
+
+    .player {
+        width: 30%; /* Sirf Play/Pause button dikhayein */
+    }
+
+    .playback-bar, .control, .album-icons {
+        display: none; 
+    }
+}
