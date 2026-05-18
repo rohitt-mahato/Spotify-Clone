@@ -7,7 +7,7 @@ A fully responsive **Spotify Web Player Clone** built using **HTML** and **CSS**
 
 ![Project Screenshot](./assets/Screenshot.png) 
 
-## 🚀 Features
+## Features
 * Responsive Design: Works on desktops and adapts to smaller screens.
 * Hover Effects: Smooth animations on cards, play buttons, and navigation items.
 * Custom UI Components:
@@ -16,7 +16,7 @@ A fully responsive **Spotify Web Player Clone** built using **HTML** and **CSS**
     * Interactive Play Buttons that appear on hover.
 * Font Awesome Integration: Uses high-quality icons for a professional look.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **HTML5:** Structure of the web player.
 * **CSS3:** Styling, Flexbox, Positioning, and Animations.
 * **Google Fonts:** Montserrat font for the authentic Spotify feel.
