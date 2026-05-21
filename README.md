@@ -30,4 +30,4 @@ You can view the live demo here: https://rohitt-mahato.github.io/Spotify-Clone/
 ├── assets/          # Contains images, icons, and logos
 ├── index.html       # Main HTML file
 ├── style.css        # Custom CSS styles
-└── README.md        # Project documentation
+└── README.md        # Project documentation 
